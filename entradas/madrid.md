@@ -26,4 +26,11 @@ Aca podremos apreciar su imponente estadio el famoso santiago bernabeu
 
 https://es.wikipedia.org/wiki/Estadio_Santiago_Bernab%C3%A9u#/media/Archivo:Estadio_Santiago_Bernab%C3%A9u_Madrid.jpg
 
+## Informacion 
+
+Madrid es un municipio y una ciudad de España. La localidad, con categoría 
+histórica de villa, ​ es la capital del Estado​ y de la Comunidad de Madrid
+
+*markdown* 
+
 
