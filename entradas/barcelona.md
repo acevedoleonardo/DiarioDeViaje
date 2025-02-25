@@ -18,6 +18,11 @@ Qué ver en Barcelona: 6 lugares y planes imprescindibles
 5. Visitar el Camp Nou, el famoso estadio del Barça.
 6. Realizar una actividad acuática en la costa.
 
+## Foto 
+
+Siempre que vayas a Barcelona no olvides pasar por el mitico estado del Cap nou. 
+
+https://es.wikipedia.org/wiki/Camp_Nou#/media/Archivo:Camp_Nou_aerial_(cropped).jpg
 
 
 
