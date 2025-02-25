@@ -14,6 +14,12 @@ Consideraciones culturales:
 
 Ya que para los rusos esto significa mala suerte. 
 
+#Foto 
+
+Su capita es una de las ciudad mas hermosas de la region por su arquitectura y modernismo 
+
+https://es.wikipedia.org/wiki/Mosc%C3%BA#/media/Archivo:Saint_Basil's_Cathedral_and_the_Red_Square.jpg 
+
 
 
 
