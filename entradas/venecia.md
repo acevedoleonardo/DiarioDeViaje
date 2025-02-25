@@ -20,3 +20,14 @@ La bella Venecia
 https://es.wikipedia.org/wiki/Venecia#/media/Archivo:Collage_Venezia.jpg
 
 
+## Informacion 
+
+Venecia atrae a los visitantes con la belleza de sus canales, 
+su arquitectura y sus obras de arte. 
+Seduce con sus magníficos artesanos y encanta por su comida y bebida, 
+disponibles en locales tan deliciosos como 
+Versus Meridianem, All'Arco e Impronta Cafè.
+
+*markdown* 
+
+
