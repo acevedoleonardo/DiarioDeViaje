@@ -20,5 +20,10 @@ durante la Era de los Descubrimientos, como fortificación defensiva y símbolo
 del prestigio de Portugal
 
 
+## Foto 
+
+La Torre de Belem, sencillamente hermosa. 
+
+https://es.wikipedia.org/wiki/Torre_de_Bel%C3%A9m#/media/Archivo:Torre_Bel%C3%A9m_April_2009-4a.jpg 
 
 
