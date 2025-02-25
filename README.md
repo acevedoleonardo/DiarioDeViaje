@@ -23,6 +23,19 @@ Bienvenido a nuestro diario de viaje, donde compartimos experiencias y recomenda
 - [Viaje a París](entradas/paris.md): Descubre la ciudad del amor, con su icónica Torre Eiffel y maravillosos museos.
 - [Viaje a Roma](entradas/roma.md): Explora la historia y la cultura de la capital italiana.
 - [Viaje a Tokio](entradas/tokyo.md): Sumérgete en la vibrante cultura japonesa y su deliciosa gastronomía.
+- [Viaje a Luxemburgo](entradas/luxemburgo.md): Descrubre la ciudad de los castillos y sumergete en la historia. 
+- [Viaje a Londres](entradas/londres.md):Viaja y enamorate de Londres. 
+- [Viaje a Madrid](entradas/madrid.md): Viaja y enamorate de Madrid.
+- [Viaje a Lisboa](entradas/lisboa.md): Viaja y enamorate de Lisboa.
+- [Viaje a Moscu](entradas/moscu.md): Viaja y enamorate de Moscu.
+- [Viaje a Venecia](entradas/venecia.md): Viaja y enamorate de Venecia.
+- [Viaje a Barcelona](entradas/barcelona.md): Viaja y enamorate de Barcelona.
+
+
+
+¡Esperamos que disfruten de nuestros relatos y encuentren inspiración para sus próximas aventuras!
+
+
 
 
 **markdown**
