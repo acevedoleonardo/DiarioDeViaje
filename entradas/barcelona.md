@@ -25,4 +25,12 @@ Siempre que vayas a Barcelona no olvides pasar por el mitico estado del Cap nou.
 https://es.wikipedia.org/wiki/Camp_Nou#/media/Archivo:Camp_Nou_aerial_(cropped).jpg
 
 
+## Informacion 
+
+Barcelona, la capital cosmopolita de la región de Cataluña en España, 
+es conocida por su arte y arquitectura. 
+La fantástica iglesia de la Sagrada Familia y otros hitos modernistas diseñados por Antoni Gaudí adornan la ciudad. 
+
+*markdown* 
+
 
