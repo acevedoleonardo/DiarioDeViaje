@@ -18,4 +18,10 @@ Puedes Visitar las siguientes localidades:
 5. Las instalaciones olímpicas de 2020
 6. El Tokyo Skytree
 
+## Foto 
+
+El templo Sensoji uno de los mas hermosos de la ciudad 
+
+https://es.wikipedia.org/wiki/Sens%C5%8D-ji#/media/Archivo:Sensoji_2023.jpg 
+
 
