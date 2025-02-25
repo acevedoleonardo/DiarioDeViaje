@@ -20,4 +20,10 @@ Visitas obligatorias en Madrid
 - Estadio Santiago Bernabéu.
 - Templo de Debod.
 
+## Foto 
+
+Aca podremos apreciar su imponente estadio el famoso santiago bernabeu 
+
+https://es.wikipedia.org/wiki/Estadio_Santiago_Bernab%C3%A9u#/media/Archivo:Estadio_Santiago_Bernab%C3%A9u_Madrid.jpg
+
 
