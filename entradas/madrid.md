@@ -29,7 +29,13 @@ https://es.wikipedia.org/wiki/Estadio_Santiago_Bernab%C3%A9u#/media/Archivo:Esta
 ## Informacion 
 
 Madrid es un municipio y una ciudad de España. La localidad, con categoría 
-histórica de villa, ​ es la capital del Estado​ y de la Comunidad de Madrid
+histórica de villa, ​ es la capital del Estado​ y de la Comunidad de Madrid. 
+
+Sin olvidar su famoso grito futbolero Hala Madrid. 
+
+
+
+
 
 *markdown* 
 
