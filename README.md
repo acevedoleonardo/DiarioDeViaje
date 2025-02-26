@@ -34,7 +34,6 @@ Bienvenido a nuestro diario de viaje, donde compartimos experiencias y recomenda
 
 
 ¡Esperamos que disfruten de nuestros relatos y encuentren inspiración para sus próximas aventuras!
-..........................................................................................................
 
 
 
